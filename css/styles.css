@@ -1,0 +1,141 @@
+body
+{
+    background-color: #DBE6FD;
+     font-family: 'Montserrat', sans-serif;
+}
+p
+{
+    font-size: 1rem;
+}
+
+.row
+{
+    padding: 7rem 5rem 0;
+}
+/*Navigation Bar*/
+.main-navbar
+{
+    padding: 5px 0 10px;
+}
+.navbar-brand
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 10rem;
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+.icon:hover{
+    color: black;
+}
+
+.side-bar
+{
+    font-size: 15px;
+    color: #212529;
+    padding: 10px 3px;
+}
+.side-bar:hover{
+    color: black;
+}
+.menu
+{
+    padding: 0 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #212529;
+
+}
+/*brands section*/
+.brand-img
+{
+    width: 200px;
+    height: 300px;
+    border-radius: 3%;
+}
+.brand-title
+{
+    text-align: left;
+    line-height: 3.5rem;
+    font-size: 2.5rem;
+    color: #212529;
+    font-weight: lighter;
+
+}
+.brand-row2
+{
+    padding: 3rem 5rem 0rem;
+}
+/*trending now section*/
+#trending .row
+{
+ padding: 7rem 5rem;
+
+}
+.trending-title
+{
+    padding-bottom: 1.5rem;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #212529;
+    font-weight: lighter;
+}
+.trending-img
+{
+    width:250px;
+    height: 350px;
+    border-radius: 3%;
+}
+.trending-td
+{
+    font-weight: 900;
+    font-size: 13px;
+    margin-top: 10px;
+    text-align: center;
+}
+.trending-details
+{
+    text-align: center;
+    font-size: 13px;
+    margin: 0 5px;
+}
+.trending-explore
+{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 10px;
+}
+/*details*/
+#details
+{
+    
+    background-color:#547980;
+}
+.details-heading
+{
+    font-weight: 500;
+    font-size: 1.5rem
+}
+/*Footer Section*/
+
+#footer .container-fluid
+{
+    background-color:#547980;
+    text-align: left;
+    padding-bottom: 2rem;
+}
+.footer-heading
+{
+    font-weight: 550;
+    font-size: 1.25rem;
+}
+
+.end-icon {
+    padding: 0% 1%;
+}
+.footer-end
+{
+    text-align: center;
+    padding-bottom: 0;
+}
